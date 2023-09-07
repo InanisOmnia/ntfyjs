@@ -1,2 +1,3 @@
 # ntfyjs
- Interact with ntfy with javascript
+
+ Interact with ntfy using javascript
